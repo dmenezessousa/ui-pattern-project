@@ -103,7 +103,9 @@ img {
   width: 100%;
   text-align: center;
 }
-
+.loading-title {
+  color: #282828;
+}
 .title {
   color: #282828;
   font-size: 20px;

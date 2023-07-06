@@ -1,5 +1,5 @@
 //The Simpsons API
-simpsonsAPI = "https://thesimpsonsquoteapi.glitch.me/quotes?count=100";
+simpsonsAPI = "https://thesimpsonsquoteapi.glitch.me/quotes?count=50";
 //get Elements
 //Functions
 loadingBeforeApi();
